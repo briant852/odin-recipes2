@@ -14,7 +14,24 @@
     font-family:monospace;
 }
 
+.top{
+    display: flex;
+}
+
+.one{
+    width: 100%;
+    margin-left: 50px;
+}
+
+.done{
+    background:            linear-gradient(teal, white);
+    background-attachment: fixed; /*edit*/
+}
+
+
 a {
     color: whitesmoke;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+}
+
+
